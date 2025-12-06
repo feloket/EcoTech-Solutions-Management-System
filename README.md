@@ -1,6 +1,6 @@
 # EcoTech Solutions Management System
 
-This i project was made for my oop class.
+This project was made for my oop class.
 
 This is a comprehensive employee, project, and economic indicators management system for EcoTech Solutions, developed with Python and MySQL, implementing security best practices and object-oriented programming.
 
@@ -648,3 +648,4 @@ This is an academic project developed for educational purposes. While it impleme
 **Last Updated**: December 2024  
 **Institution**: INACAP  
 **Course**: TI3021 - Secure Object-Oriented Programming
+
